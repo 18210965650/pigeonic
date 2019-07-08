@@ -2,7 +2,7 @@
 ### 框架
 Laravel5.8
 ###环境配置
-php7.2.* 
+php7.2.*
 Mysql5.5
 Redis
 Apache
